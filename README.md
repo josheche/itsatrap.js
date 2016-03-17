@@ -32,7 +32,7 @@ $(document).ready(function () {
 
  ````html
  <section id="map" class="map">
-  <iframe id="iframeMap" src="https://www.google.com/maps/embed/code/goes/here/duh" width="1200" height="420" frameborder="0" style="border: 0"></iframe>
+   <iframe id="iframeMap" src="https://www.google.com/maps/embed/code/goes/here/duh" width="1200" height="420" frameborder="0" style="border: 0"></iframe>
  </section>
  ````
 
