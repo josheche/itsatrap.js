@@ -36,7 +36,7 @@ $(document).ready(function () {
  </section>
  ````
 
-- dont forget to add the css on your custom stylesheet: 
+- dont forget to add the css in your custom stylesheet: 
 
 ````css
 .scroll-off { pointer-events: none; }
